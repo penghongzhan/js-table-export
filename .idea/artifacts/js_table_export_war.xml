@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="js-table-export:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="js-table-export.war">
-      <element id="artifact" artifact-name="js-table-export:war exploded" />
-    </root>
-  </artifact>
-</component>
